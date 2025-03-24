@@ -1,0 +1,14 @@
+# General settings
+title: My Blog
+description: Documenting my learning
+author: Stan Russo
+url: https://stanrusso.github.io
+
+# Optional settings
+baseurl: "/learning" # Leave it empty unless your site is a subpath, like /blog
+
+# Site Settings
+markdown: kramdown
+highlighter: rouge
+
+# Social links
