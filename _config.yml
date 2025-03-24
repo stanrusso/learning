@@ -1,0 +1,23 @@
+# General settings
+title: Learning Blog
+description: Documenting my learning
+author: Stan Russo
+url: https://stanrusso.github.io
+
+# Optional settings
+baseurl: "/learning" # Leave it empty unless your site is a subpath, like /blog
+
+# Theme (You can choose from available themes or use a custom one)
+theme: jekyll-theme-minimal
+
+# Site Settings
+markdown: kramdown
+highlighter: rouge
+
+# Pagination (Optional, for large blogs)
+paginate: 5  # Number of posts per page
+
+# Permalink structure (Optional, customize the URL structure for posts)
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude files or directories from being processed by
